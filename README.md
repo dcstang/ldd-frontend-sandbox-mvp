@@ -13,4 +13,3 @@ A MVP for the JS sandboxing in LDD Frontend
 ## Usage
 1. in terminal
 `npm test`
-
