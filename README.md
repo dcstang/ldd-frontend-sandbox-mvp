@@ -3,10 +3,10 @@
 A MVP for the JS sandboxing in LDD Frontend 
 
 ## Installation 
-1. Open github codespaces 
-2. Git clone repository   
-`git clone xxxx`
-3. Install jest    
+1. Have this repository open on your browser 
+2. Start codespaces on `main`
+![codespaces](images/codespaces.png)
+3. Install jest via terminal   
 `npm install --save-dev jest`
 
 
